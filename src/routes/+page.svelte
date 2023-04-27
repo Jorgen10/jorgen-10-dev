@@ -1,4 +1,5 @@
 <script>
-
+    let test = "nei"
+    console.log(test)
 </script>
-<h1>Welcome to the amicus site!</h1>
+<h1>Hei</h1>
