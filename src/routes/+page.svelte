@@ -1,5 +1,8 @@
 <script>
-    let test = "nei"
-    console.log(test)
+
 </script>
-<h1>Hei</h1>
+
+<h1>Amicus</h1>
+<style>
+    
+</style>
